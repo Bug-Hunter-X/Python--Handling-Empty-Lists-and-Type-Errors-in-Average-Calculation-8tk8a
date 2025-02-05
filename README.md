@@ -1,0 +1,2 @@
+# Python: Handling Empty Lists and Type Errors in Average Calculation
+This repository demonstrates a common error in Python when calculating the average of a list of numbers and showcases its solution. The original code does not gracefully handle empty lists or lists containing non-numeric elements, resulting in errors.  The solution addresses this by robustly checking for empty lists and performing type validation before performing calculations. This prevents runtime errors and ensures the function works correctly in all cases.
